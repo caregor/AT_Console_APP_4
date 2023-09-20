@@ -1,0 +1,11 @@
+folder_in: /tmp/tst
+folder_out: /tmp/out
+folder_ext: /tmp/folder1
+folder_ext2: /tmp/folder2
+count: 1
+file_size: 1M
+os_system: mac # mac or linux
+arch_type: zip
+ip_addr: 172.16.187.129
+user: heavy
+passwd: 111
